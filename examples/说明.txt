@@ -1,0 +1,3 @@
+本文件夹下的四个文件分别运行训练Alexnet网络在LSP+LSP_EXT,MPII数据集上面。
+均调用scripts下的train.py，scripts下的cmd_options.py文件是一些关于运行sh文件时的默认设置，包括了batch_size等。
+
